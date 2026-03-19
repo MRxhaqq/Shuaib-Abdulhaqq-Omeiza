@@ -4,7 +4,7 @@ Personal portfolio website built with React, Tailwind CSS, and Framer Motion.
 
 ## Live Demo
 
-[View live](https://your-portfolio-url.vercel.app)
+[View live](https://mrxhaqq.vercel.app)
 
 ## Features
 
@@ -35,7 +35,7 @@ Personal portfolio website built with React, Tailwind CSS, and Framer Motion.
 ### Installation
 
 ```bash
-git clone https://github.com/MRxhaqq/portfolio.git
+git clone https://github.com/MRxhaqq/Shuaib-Abdulhaqq-Omeiza.git
 cd portfolio
 npm install
 ```

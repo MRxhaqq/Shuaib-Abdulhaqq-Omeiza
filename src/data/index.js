@@ -61,4 +61,30 @@ export const projects = [
     gradient: "from-emerald-400 to-teal-600",
     number: "02",
   },
+  {
+    id: 3,
+    title: "Luxury Hijabi",
+    subtitle: "E-Commerce Store",
+    description:
+      "A premium e-commerce storefront for a modest fashion brand. Built with React and custom CSS, featuring product listings, a shopping cart, product detail pages, and a clean luxury aesthetic designed to convert browsers into buyers.",
+    tech: ["React", "JavaScript", "CSS", "Vite"],
+    liveUrl: "https://luxury-hijabi.vercel.app",
+    githubUrl: "https://github.com/MRxhaqq/Luxury-Hijabi-Project",
+    color: "#d4af37",
+    gradient: "from-amber-400 to-yellow-600",
+    number: "03",
+  },
+  {
+    id: 4,
+    title: "MultiStep Form",
+    subtitle: "Onboarding Form",
+    description:
+      "A polished 5-step user onboarding form with per-step validation, profile photo upload with live preview, interest selection, newsletter toggle, a full review screen before submission, session persistence across page refreshes, and an animated success screen.",
+    tech: ["React", "Chakra UI v3", "sessionStorage"],
+    liveUrl: "https://your-multistep-form-url.vercel.app",
+    githubUrl: "https://github.com/MRxhaqq/Luxury-Hijabi",
+    color: "#a855f7",
+    gradient: "from-purple-400 to-violet-600",
+    number: "04",
+  },
 ];
