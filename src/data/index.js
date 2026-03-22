@@ -81,8 +81,8 @@ export const projects = [
     description:
       "A polished 5-step user onboarding form with per-step validation, profile photo upload with live preview, interest selection, newsletter toggle, a full review screen before submission, session persistence across page refreshes, and an animated success screen.",
     tech: ["React", "Chakra UI v3", "sessionStorage"],
-    liveUrl: "https://your-multistep-form-url.vercel.app",
-    githubUrl: "https://github.com/MRxhaqq/Luxury-Hijabi",
+    liveUrl: "https://mrxhaqq-multi-step-form.vercel.app/",
+    githubUrl: "https://github.com/MRxhaqq/multi-step-form",
     color: "#a855f7",
     gradient: "from-purple-400 to-violet-600",
     number: "04",
