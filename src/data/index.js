@@ -87,4 +87,18 @@ export const projects = [
     gradient: "from-purple-400 to-violet-600",
     number: "04",
   },
+
+  {
+    id: 5,
+    title: "NoteFlow",
+    subtitle: "Markdown Notes App",
+    description:
+      "A premium markdown notes app with a split-pane editor and live preview, full-text search, a tag system with filtering, debounced autosave, word count and reading time, keyboard shortcuts, and complete localStorage persistence.",
+    tech: ["React", "Tailwind CSS", "shadcn/ui", "react-markdown"],
+    liveUrl: "https://mrxhaqq-noteflow.vercel.app/",
+    githubUrl: "https://github.com/MRxhaqq/NoteFlow-",
+    color: "#f97316",
+    gradient: "from-orange-400 to-rose-500",
+    number: "05",
+  },
 ];
