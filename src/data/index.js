@@ -111,7 +111,7 @@ export const projects = [
     liveUrl: "https://zesti-pro.vercel.app/",
     githubUrl: "https://github.com/MRxhaqq/zesti",
     color: "#e85d26",
-    gradient: "from-orange-400 to-rose-500",
+    gradient: "from-red-500 to-orange-600",
     number: "06",
   },
 ];
