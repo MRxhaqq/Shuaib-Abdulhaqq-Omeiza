@@ -101,4 +101,17 @@ export const projects = [
     gradient: "from-orange-400 to-rose-500",
     number: "05",
   },
+  {
+    id: 6,
+    title: "Zesti",
+    subtitle: "Recipe Finder",
+    description:
+      "A premium recipe discovery app powered by TheMealDB API. Features instant search, category filtering with live API fetch and silent fallback, CLS-matched skeleton loading, a tabbed recipe modal with servings scaler, bookmark system, and a drag-and-drop weekly meal planner.",
+    tech: ["React", "React Router", "Motion", "@dnd-kit", "TheMealDB API"],
+    liveUrl: "https://zesti-pro.vercel.app/",
+    githubUrl: "https://github.com/MRxhaqq/zesti",
+    color: "#e85d26",
+    gradient: "from-orange-400 to-rose-500",
+    number: "06",
+  },
 ];
