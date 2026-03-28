@@ -2,6 +2,20 @@
 
 Personal portfolio website built with React, Tailwind CSS, and Framer Motion.
 
+## Screenshots
+
+### Hero Section
+
+![Hero Section](screenshots/portfolio-hero-section.png)
+
+### Project Section
+
+![Project Section](screenshots/portfolio-project-section.png)
+
+### Contact Section
+
+![Contact Section](screenshots/portfolio-contact-section.png)
+
 ## Live Demo
 
 [View live](https://mrxhaqq.vercel.app)
